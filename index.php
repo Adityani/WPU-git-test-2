@@ -9,5 +9,9 @@
 <body>
     <h1>Hello Wolrd!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, ducimus. Quos, distinctio tempora recusandae fugit blanditiis officiis sed sunt delectus explicabo vero fugiat eum unde ex, amet dolor incidunt assumenda.</p>
+    <ul>
+        <li>Aditya Nur iskandar</li>
+        <li>Chiqo</li>
+    </ul>
 </body>
 </html>
